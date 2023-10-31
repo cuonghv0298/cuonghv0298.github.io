@@ -1,12 +1,20 @@
-# Data Science Portfolio
+title: <p align="center"> Sajan Kedia </p>
+logo: /assets/img/logo.png
 
----
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/sajan-kedia-b06a6821/">LinkedIn</a> |
+  <a href="https://github.com/sajankedia">GitHub</a>
+  
+  <br>   
+  I'm working on Data Science, Big Data, Spark, Machine learning & NLP related problems.
+  Also handing the Big Data from real-time Ad call data.
+  Worked with IBM Research at Big Data Analytics team.
+  Working in AdTech domain for 3 years.
+  <br>
+  </p>
 
-## Machine learning
 
-### Vietnamese handwriting recognition
 
-This guide how to use vietocr lib to recognize Vietnamese handwriting 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/cuonghv0298/OCR_release_ver1_11_03)
-
-<center><img src="images/gen1.jpg"/></center>
+theme: jekyll-theme-minimal
